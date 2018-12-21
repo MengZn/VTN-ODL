@@ -1,0 +1,9 @@
+module vtn {
+    yang-version 1.1;
+    namespace "urn:opendaylight:params:xml:ns:yang:vtn";
+    prefix "vtn";
+
+    revision "2018-05-17" { // TODO change revision to date of model creation
+        description "Initial revision of vtn model";
+    }
+}
